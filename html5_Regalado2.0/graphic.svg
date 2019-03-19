@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="40 60 210 235" style="enable-background:new 0 0 300 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:12;}
+	.st1{fill:#35384E;stroke:#FFFFFF;stroke-width:0.5;}
+	.st2{fill:#FFFFFF;}
+	.st3{font-family:'VCR OSD Mono';}
+	.st4{font-size:10px;}
+</style>
+<circle class="st0" cx="150" cy="150" r="75">
+<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" calcMode="linear" dur="10s" fill="remove" from="0 150 150" repeatCount="indefinite" restart="always" to="360 150 150" type="rotate">
+	</animateTransform>
+</circle>
+<circle class="st1" cx="150" cy="150" r="65"/>
+<text transform="matrix(1 0 0 1 126.5625 145.2339)"><tspan x="0" y="0" class="st2 st3 st4">contact:</tspan><tspan x="-38.1" y="12" class="st2 st3 st4">jacquelireg@gmail.com</tspan></text>
+</svg>

@@ -1,0 +1,47 @@
+@font-face { font-family: VCR OSD Mono; src: url('VCR_OSD_MONO_1.001.ttf'); } 
+
+body {
+	color: white;
+	box-sizing: border-box;
+	font-family: VCR OSD Mono;
+	background-color: black;
+}
+
+a {
+	border: solid;
+	color: white;
+	padding: 5px;
+	text-decoration: none;
+	background: rgba(53,56,78,0.7);
+}
+
+img {
+	width:50%;
+	height: 50%;
+	object-fit: cover;
+}
+
+.navbar {
+	z-index: 1;
+	position: relative;
+	}
+
+.navbar h5 {
+	letter-spacing: 5px;
+	text-decoration: none;
+	text-align: center;
+}
+
+.work {
+	position: relative;
+	z-index: 1;
+	background: rgba(53,56,78,0.7);
+	border: solid;
+	padding: 5px;
+	text-align: center;
+}
+
+.row {
+	margin-left: 10%;
+	margin-right: 10%;
+}
